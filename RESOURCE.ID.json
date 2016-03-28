@@ -1,0 +1,26 @@
+{
+  "id": "csiXF_bbCode_07EB940A",
+  "name": "(CSI/XF/BBCODE) Let Me Google That For You",
+  "description": "Online-сервис позволяющий наглядно продемонстрировать, насколько легко пользователь сам смог бы найти ответ в Google.",
+  "version": "1.0.2",
+  "type": "xenforo-bbcode",
+  "keywords": [
+    "xenforo",
+    "bbcode",
+    "add-on"
+  ],
+  "homepage": "http://cyberspace.industries/",
+  "license": "GPL-3.0",
+  "authors": [
+    {
+      "name": "Kitsune Solar",
+      "email": "msg@kitsune.solar",
+      "homepage": "http://kitsune.solar/"
+    }
+  ],
+  "support": {
+    "source": "",
+    "issues": "http://cyberspace.community/",
+    "forum": "http://cyberspace.community/"
+  }
+}
